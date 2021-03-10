@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1592328414 source:d:\codeblock\plproject2\main.c
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	<conio.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+

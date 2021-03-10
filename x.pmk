@@ -1,0 +1,17 @@
+if<D:/CodeBlock/PLProject2>
+make<ser/sercan/oguz>;
+if<*>{
+go<*>;
+make<hello/deneme>;
+if<D:/CodeBlock>
+go<D:/CodeBlock/PLProject2/ser>;}
+go<D:/CodeBlock>;
+if<*>
+make<pl/great/again>;
+ifnot<*>{
+go<D:/CodeBlock/PLProject2>;
+}
+make<data/doctors>;
+ifnot<yok/yok>
+make<data/doctors>;
+
